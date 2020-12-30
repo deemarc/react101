@@ -13,7 +13,7 @@ sudo apt install npm
 
 ## Visual Studio Code plugin
 a list of 'nice to have' plugin to use along with this tutorial
-- *Simple React Snippets* = short hand written then got the auto complete command use n react
+- <b>Simple React Snippets</b> = short hand written then got the auto complete command use n react
 
 ## Visual Studio Code settings
 settings that will help dev react easier
@@ -35,11 +35,13 @@ here's where I keep short note from the video tutorial
 
 the react component is as following;<br/>
 a. building block of react app<br    />
-b. self-contained content
-
+b. self-contained content<br />
+c. root component: APP.js<br/>
+d. to make more component we nested it inside the root app component.
 Component Contains;
 - template (JSX)
 - Logic (javascript)
+
 
 ### JSX
 javastyle template that looks similar to html template
@@ -47,4 +49,5 @@ javastyle template that looks similar to html template
 when we save the JSX, the backend, babel, will the convert this jsx into html
 
 
-
+## Simple React Snippets command learn
+sfc - create stateless funtional component
