@@ -49,5 +49,11 @@ javastyle template that looks similar to html template
 when we save the JSX, the backend, babel, will the convert this jsx into html
 
 
-## Simple React Snippets command learn
+### Simple React Snippets command learn
 sfc - create stateless funtional component
+
+### running json server
+this help us to test out front-end fecthing data from rest-api with out actually implementing it
+```
+npx json-server --watch data/db.json --port 8000
+```
